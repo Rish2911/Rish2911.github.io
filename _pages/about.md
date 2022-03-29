@@ -10,17 +10,16 @@ comments: true
 
 <p>Hi there!</p>
 
-<p>I'm Stephen, from sunny Bordeaux in France. I'm an Android advocate after making my early years as an iOS developer.</p>
+<p>I'm Rishabh Singh, from Maryland in USA. I am a student of professional master's in Robotics and Systems Engineering at the University of Maryland, College Park, with a background in Automotive, and Mechanical Engineering and Project Management.</p>
 
-<p>I've been developing mobile applications for more than ten years. My several experiences lead me to create solutions for a broad spectrum of clients.</p>
+<p>A highly self-motivated individual with 2 Indian patent filings and an SAE publication who believes that technological innovation can solve every problem that exists and can impact the world for good. An entrepreneur by heart who is passionate about solving real-world problems to make this world a better place! And always happy to expand my horizon to achieve the same.</p>
 
-<p>Currently, I'm a proud member of <a href="https://twitter.com/Betclic?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Betclic</a>. We're offering the <a href="https://play.google.com/store/apps/details?id=sport.android.betclic.fr">Top 1 sportsbook application</a> in France.</p>
+<p>My experience includes leading a collegiate ATV designing project like SAE Baja, launching real‑world products like Mahindra Marazzo, creating a B‑plan for a startup, and leading an international novel project to monitor river water quality funded by IUSSTF (Indo‑US Science and Technology Forum).</p>
 
-<p>I've lately taken a keen interest in automation processes. I've developed most of our delivery processes with Fastlane and Bitrise, and also improved our code reviews with the configuration of tools such as Danger, Ktlint, code coverage, etc.</p>
+<p>After a couple of years of experience in the automotive industry, I decided to explore a new field like Robotics to extend my capabilities as an engineer. As a result, my learning curve was high during the first semester, but I de‑ livered the projects and assignments on time and in quality. What challenged me was hard work, perseverance, and conviction to learn and apply.</p>
 
-<p>I work closely with the orbital teams to offer guidance in architecture topics. I'm also providing Git formations to the new arrivals in the company.</p>
-
-<p>In my lost hours, I read many articles and books -- the science-fiction kind. I'm a converted traveler and never miss a chance to discover new horizons.</p>
+<p>
+According to my experience, there is a slight chance for a product going wrong, if the team behind it has the capabilities mentioned above. In contrast, one can develop technical skills with time and effort. As mentioned above, I am always willing to expand my horizon if required and if I get to learn something new and contribute along the way.</p>
 
 <br />
 
@@ -32,3 +31,7 @@ comments: true
   <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/me.jpg" alt="{{ page.title }}">
 </div>
 </div>
+
+
+ 
+
