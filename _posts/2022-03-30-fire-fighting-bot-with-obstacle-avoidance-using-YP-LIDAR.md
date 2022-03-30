@@ -38,7 +38,7 @@ the monetary losses which increase considerably as fire duration increases.
 
 
 #### Application
-![figure 1](https://github.com/rish2911/Fire_fighting_bot_with_obstacle-avoidance-using-YP_lidar/blob/main/pics/figure2.png)
+![figure 1](https://github.com/rish2911/rish2911.github.io/blob/master/assets/images/pics/figure2.png)
 
 - How do I add my products to my application?
 
