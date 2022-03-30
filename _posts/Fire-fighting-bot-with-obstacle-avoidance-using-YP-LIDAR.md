@@ -13,6 +13,19 @@ action. Since structures like houses and buildings tend to collapse , it is toug
 the source of the disaster to extinguish it. The significant factors required to focus on
 these situations are speed, robustness, the safety of firefighters, and communication.
 
+The USA is known to have one of the highest fire death rates in the industrialized world
+during the past decade. According to the 2019 reports, the local fire departments all
+over the country have responded to an estimate of 1,291,500 fires, which have caused
+an estimated 3,704 civilian deaths, 16,600 civilian injuries, and $14.8 billion in direct
+property damage. To worsen matters, career firefighters have experienced an
+average of 20,650 fire-ground injuries each year from 2015 through 2019 and have lost
+140 firefighters while on the job in 2020. The adversity does not end, firefighters, who
+survive, experience long term consequences from primary fire ground injuries like
+strains or sprains (27 percent), smoke inhalation (18 percent), the pain only(12 percent),
+thermal burns (7 percent), and cuts or lacerations (5 percent). The above facts are
+quite disappointing considering the technological advancements of this era.
+
+
 - How do I add my products to my application?
 
 - Can I smoothly test my purchases?
