@@ -25,6 +25,19 @@ strains or sprains (27 percent), smoke inhalation (18 percent), the pain only(12
 thermal burns (7 percent), and cuts or lacerations (5 percent). The above facts are
 quite disappointing considering the technological advancements of this era.
 
+In this paper, we propose a compact and portable emergency responder robot that
+assists firemen in fighting high-rise fires, especially in highly dangerous environments
+where it is not safe for people to enter, called the Fire-fighting Robot. The Fire-fighting
+robot is custom-designed to be modular, fire-resistant, and robust. Operated by remote
+belly-pack controllers, users are provided a real-time video feed allowing them to
+traverse hazardous terrain and push obstacles from their path while withstanding
+extreme elements. It utilizes a lidar to get depth knowledge of its surroundings in
+real-time. The robot is also programmed to protect itself by keeping a specified distance
+from the center of hazard.
+This robot will reduce the risk of injury for firefighters and possible victims and decrease
+the monetary losses which increase considerably as fire duration increases.
+
+
 
 - How do I add my products to my application?
 
