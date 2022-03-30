@@ -28,7 +28,7 @@ According to my experience, there is a slight chance for a product going wrong, 
 </div>
 
 <div class="col-md-4">
-  <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/me.jpg" alt="{{ page.title }}">
+  <img class="featured-image img-fluid" src="{{ site.baseurl }}/assets/images/jolly2.jpg" alt="{{ page.title }}">
 </div>
 </div>
 
