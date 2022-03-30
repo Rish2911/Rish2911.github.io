@@ -38,6 +38,8 @@ This robot will reduce the risk of injury for firefighters and possible victims 
 the monetary losses which increase considerably as fire duration increases.
 
 
+#### Application
+![https://github.com/rish2911/Fire_fighting_bot_with_obstacle-avoidance-using-YP_lidar/blob/main/pics/figure2.JPG](https://github.com/rish2911/Fire_fighting_bot_with_obstacle-avoidance-using-YP_lidar/blob/main/pics/figure2.JPG)
 
 - How do I add my products to my application?
 
