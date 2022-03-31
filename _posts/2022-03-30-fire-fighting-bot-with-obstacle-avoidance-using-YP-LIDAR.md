@@ -58,6 +58,14 @@ Lidar stands for Light Detecting And Ranging which is a remote sensing method th
 researchers at the National Institute of Standards and Technology has used the Lidar system to image three-dimensional objects melting in flames [4]. They concluded that this method offers a precise, safe, and compact way to measure structures as they collapse in a fire. The ultimate goal of the robot is to extinguish fires without the intervention of human firefighters with a pressure nozzle on a hydraulic arm.
 
 
+
+#### Robot's DOF and Dimensions
+The robot can be majorly divided into two categories based on its functions:
+1. The mobile rear-wheel drive
+2. The 3-R spatial arm
+
+The mobile rear-wheel drive has 2 degrees of freedom. It travels in the x-y plane which is essentially the ground surface. The 3-R spatial arm has 3 degrees of freedom. The joint attached to the robot's base controls the yaw of the nozzle, while the other two revolute joints contribute to the pitching and positioning of the nozzle.
+
 - How do I add my products to my application?
 
 - Can I smoothly test my purchases?
