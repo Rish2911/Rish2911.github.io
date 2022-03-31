@@ -38,7 +38,7 @@ the monetary losses which increase considerably as fire duration increases.
 
 
 #### Application
-![figure 1](https://github.com/rish2911/rish2911.github.io/blob/master/assets/images/pics/figure2.png)
+![figure 1](/rish2911.github.io/assets/images/pics/figure2.png)
 
 - How do I add my products to my application?
 
