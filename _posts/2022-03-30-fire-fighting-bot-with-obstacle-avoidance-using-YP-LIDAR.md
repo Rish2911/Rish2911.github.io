@@ -5,7 +5,7 @@ author: Rishabh
 title:  Fire fighting bot with obstacle avoidance using YP-LIDAR
 description: A mobile robot with 3-R manipulator with autonomous safety takeover mechanism, which can be teleoperated to extinguish fire. 
 categories: [ Robotics, ROS, Python ]
-image: https://github.com/rish2911/rish2911.github.io/blob/master/assets/images/pics/intro.png
+image: ![figure 1](/assets/images/pics/logo.png)
 ---
 Fires propagate at an exponential speed which makes it utterly necessary to be quick in
 action. Since structures like houses and buildings tend to collapse , it is tough to reach
@@ -38,7 +38,17 @@ the monetary losses which increase considerably as fire duration increases.
 
 
 #### Application
-![figure 1](/assets/images/pics/figure2.png)
+![Existing robots doing the job](/assets/images/pics/figure2.png)
+Certain tasks are in account when creating robotic firefighting systems. These tasks include evaluating and finding flames, conducting search and rescue operations,
+monitoring hazardous variables, and fire management and suppression. Numerous lives can be saved by employing robots in hazardous situations. These include the lives of those affected by the disaster and the people working to save them such as firefighters. This product can be very useful in times of emergency when it is
+very dangerous for humans such as the retrieval of hazardous materials. The fire-fighting robot is designed to mitigate life-threatening situations with tools
+required for fire suppression, situational awareness, and intelligence gathering. It can identify the location of hazards and operate remotely, giving continuous real-time feedback to the operator. It will sense the fire and spray fire-suppression liquids and chemicals onto that direction until the fire subsides.
+
+
+
+
+
+
 
 - How do I add my products to my application?
 
