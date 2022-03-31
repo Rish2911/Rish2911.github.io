@@ -5,7 +5,7 @@ author: Rishabh
 title:  Fire fighting bot with obstacle avoidance using YP-LIDAR
 description: A mobile robot with 3-R manipulator with autonomous safety takeover mechanism, which can be teleoperated to extinguish fire. 
 categories: [ Robotics, ROS, Python ]
-image: https://drive.google.com/file/d/1vXNTJqA8pFtPMJPn6ywyQSP3EONZSHKc/view?usp=sharing
+image: https://github.com/rish2911/rish2911.github.io/blob/master/assets/images/pics/intro.png
 ---
 Fires propagate at an exponential speed which makes it utterly necessary to be quick in
 action. Since structures like houses and buildings tend to collapse , it is tough to reach
