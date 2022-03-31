@@ -46,8 +46,16 @@ required for fire suppression, situational awareness, and intelligence gathering
 
 
 
+#### Robot Type
+![SImplified model of our fire fighting bot](/assets/images/pics/figure3.png)
+The proposed model is a ground vehicle with a rear drive transmission. The front two wheels are used to steer the robot. A 3-R spatial arm, which is attached to the body of the mobile robot, carries a nozzle at its end effector. The joint attached to the robot's base, controls the yaw of the nozzle, while the other two revolute joints contribute to the pitching and positioning of the nozzle. The 3-R arm will aid in accessing elevated areas, consequently increasing the workspace.
 
+Inspired by the Thermite Robot, created by Howe x Howe, the design incorporates a high-temperature resistant and fire protection shield that is used to protect the
+controllers and back of the robot. The protective shield is made from intumescent materials that expand and become denser when exposed to fire or intense heat [3]. One
+of the main goals of creating a fire-fighting robot is its capability to access areas where it is unsafe for firefighters to enter. The robot can be remotely controlled by an operator at a safe distance using lidar, which is placed in a cavity in front of the robot. Even though the robot is controlled remotely, the robot is programmed to protect itself by keeping a 2-meter distance from the center of the hazard.
 
+Lidar stands for Light Detecting And Ranging which is a remote sensing method that utilizes laser pulses to measure the ranges of an object. A recent discovery by the
+researchers at the National Institute of Standards and Technology has used the Lidar system to image three-dimensional objects melting in flames [4]. They concluded that this method offers a precise, safe, and compact way to measure structures as they collapse in a fire. The ultimate goal of the robot is to extinguish fires without the intervention of human firefighters with a pressure nozzle on a hydraulic arm.
 
 
 - How do I add my products to my application?
